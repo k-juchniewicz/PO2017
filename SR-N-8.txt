@@ -1,2 +1,4 @@
 Wpisujcie poniżej imię, nazwisk i nr albumu.
 Hubert Stachowski 221106
+
+Kamil Juchniewicz 221109
